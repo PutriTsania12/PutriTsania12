@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+Nama saya Putri Tsania Arinal Maladiyah. Saya berkuliah di Universitas Gadjah Mada Fakultas Matematika dan Ilmu Pengetahuan Alam program studi Geofisika. 
 **PutriTsania12/PutriTsania12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
